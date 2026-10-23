@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# StreamFlix project data
+# Keep source and cleaned datasets out of the public portfolio repository.
+data/raw/
+data/cleaned/
+*.csv
